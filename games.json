@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "games": [
+    {
+      "package": "com.jellyjet.jellygemmerge",
+      "name": "Jelly Gem: Merge",
+      "icon": "https://jellyjetgames.github.io/icon-jellygem.png"
+    }
+  ]
+}
